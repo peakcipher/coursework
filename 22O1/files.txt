@@ -1,0 +1,24 @@
+toluene
+19	closed
+20	closed
+21 	open
+22	open
+23	open
+24	open
+
+satya_solid
+25	open
+27	closed
+
+satya_liquid
+30	closed
+31	open
+!32	closed
+!41	open
+
+organic_solid
+34	NA
+35	NA
+36	NA
+37	open
+40	closed
