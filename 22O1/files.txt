@@ -1,10 +1,10 @@
 toluene
 19	closed
-20	closed
+!20	closed
 21 	open
-22	open
+!22	open
 23	open
-24	open
+!24	open
 
 satya_solid
 25	open
